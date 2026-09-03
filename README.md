@@ -8,6 +8,14 @@
 
 Windows, macOS, and Linux. **macOS and Linux builds are not well tested yet.**
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Y2IyhtI_jQw">
+    <img src="https://img.youtube.com/vi/Y2IyhtI_jQw/maxresdefault.jpg" alt="TrimTown usage demo" width="720">
+  </a>
+</p>
+
+<p align="center"><a href="https://www.youtube.com/watch?v=Y2IyhtI_jQw">Watch a 1-minute usage demo</a></p>
+
 ## Install
 
 You need **FFmpeg** (includes `ffprobe`) on your PATH, then TrimTown.
